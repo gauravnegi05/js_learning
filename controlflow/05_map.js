@@ -20,7 +20,6 @@
 // console.log(mytotal)
 
 
-
 const mynum = [1,2,3,4,5]
 
 const mytotal = mynum.reduce( (acc, currval) => acc + currval , 0)
